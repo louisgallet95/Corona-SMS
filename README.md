@@ -36,5 +36,5 @@ Simply type the following command in the terminal :
 # Thanks to :
 ### NeoMaster_71 and SamuelGaborieau3 - OpenClassroom Forum
 
-Made in 🇫🇷 by Louis Gallet with ❤️  
+Made in 🇫🇷  by Louis Gallet with ❤️  
 © L. GALLET - 2020
