@@ -29,7 +29,7 @@ Replace the values "ACCOUNTSID HERE" and "AUTHTOKEN HERE" with your accountsid a
 
 Replace also the values +TWILIO NUMBER HERE and +YOUR NUMBER HERE with your Twilio number and your phone number with your country code.
 
-# Usage
+## Usage
 Simply type the following command in the terminal :  
 ``node index.js``
 
