@@ -1,0 +1,29 @@
+{
+  "name": "corona-sms",
+  "version": "1.0.0",
+  "description": "Receive coronavirus statistics by SMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://louisgallet95@github.com/louisgallet95/Corona-SMS.git"
+  },
+  "keywords": [
+    "Coronavirus",
+    "SMS",
+    "covid-19",
+    "covid"
+  ],
+  "author": "Louis Gallet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/louisgallet95/Corona-SMS/issues"
+  },
+  "homepage": "https://github.com/louisgallet95/Corona-SMS#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "twilio": "^3.49.1"
+  }
+}
