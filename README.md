@@ -1,7 +1,7 @@
 # Corona SMS
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) 
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://louisgallet.mit-license.org/) 
 
 Corona SMS is a simple tool allowing you to receive coronavirus statistics by sms.
 
