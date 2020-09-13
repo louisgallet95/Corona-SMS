@@ -40,4 +40,4 @@ function getStats() {
 
 getStats();
 
-setInterval(getStats, 86400);
+setInterval(getStats, 86400000);
